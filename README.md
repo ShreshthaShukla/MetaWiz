@@ -18,6 +18,7 @@ E.g.: python3 Parser.py --title "Harry Potter and the Philosopher's Stone" --ser
 
 Coding Style Guide:
 The coding style used for the Python code is PEP 8 -- Style Guide for Python Code
+The coding style used for the PHP code is PEAR -- [PEAR] Manual :: Coding Standards
 
 Contributors:
 The authors of this project are Avid Narimani, Prachi Singh, Shreshtha Shukla, and Nimish Kate
