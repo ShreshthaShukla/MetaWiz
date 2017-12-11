@@ -1,13 +1,13 @@
 # MetaWiz
-<b><u>Project of INF 385T-Metadata Generation and Interfaces for Massive Datasets</b></u>
+<b><u>Project of INF 385T-Metadata Generation and Interfaces for Massive Datasets</u></b><br><br>
 
 <b>Synopsis: </b>
 The application extracts the data from Harry Potter movie transcripts available on a website and parses it. 
 It then stores the parsed data in a database in a structured  format.
-The user can then ask specific questions about the Harry Potter movies which will be answered by extracting the data from the database.
+The user can then ask specific questions about the Harry Potter movies which will be answered by extracting the data from the database.<br><br>
 
 <b>Prerequisites:</b>
-MongoDb server, Python editor, Web browser
+MongoDb server, Python editor, Web browser<br><br>
 
 <b>File Description:</b><br>
 The code includes a parser (Parser.py) that parses through the data in the transcripts and inserts the data into the MongoDb.<br> 
@@ -21,7 +21,7 @@ question2.php displays the second question on the UI, takes input from the user,
 
 <b>Coding Style Guide:<br></b>
 The coding style used for the Python code is PEP 8 -- Style Guide for Python Code<br>
-The coding style used for the PHP code is PEAR -- [PEAR] Manual :: Coding Standards
+The coding style used for the PHP code is PEAR -- [PEAR] Manual :: Coding Standards<br><br>
 
 <b>Contributors:</b>
 The authors of this project are Avid Narimani, Prachi Singh, Shreshtha Shukla, and Nimish Kate
