@@ -1,0 +1,21 @@
+body {
+	background-color: #000;
+   	background-image: url("Images/harry_potter_wallpaper.jpg");
+	font-family: "Bookman Old Style", "Times New Roman", Times, serif;
+
+}
+
+div {
+
+    	display: block;
+	width:97%;
+	height:Auto;
+	border:1px solid #000;
+   	background-color: #FFF;
+	margin:10px;
+}
+
+a:link ,a:visited ,a:hover,a:active {
+    text-decoration: none;
+} 
+

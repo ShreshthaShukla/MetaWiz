@@ -1,0 +1,10 @@
+Albus Dumbledore:Dumbledore
+McGonagall:McGonagall
+Hagrid:Hagrid
+Dudley:Dudley
+Petunia:Petunia
+Harry Potter:Harry
+Hermione Granger:Hermione
+Ron Weasley:Ron
+Neville Longbottom:Neville
+Draco Malfoy:Draco
