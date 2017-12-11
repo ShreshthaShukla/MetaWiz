@@ -17,7 +17,7 @@ To run the python script, please use the command with the title of the movie and
 E.g.: python3 Parser.py --title "Harry Potter and the Philosopher's Stone" --seriesNumber "1"
 
 Coding Style Guide:
-The coding style used for the Python code is PEP 8 -- Style Guide for Python Code
+The coding style used for the Python code is PEP 8 -- Style Guide for Python Code<br>
 The coding style used for the PHP code is PEAR -- [PEAR] Manual :: Coding Standards
 
 Contributors:
